@@ -4,6 +4,10 @@
 ## Hi there! I'm huiwon. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 I'm a **Web frontend developer.**
 
+I'm **interested in Development 💻 , Design 🎨 , Games 🕹  and Fashion 👕👖👟.**
+
+</br></br>
+
 <div align=center>
 
 ## 🔮 Tech Stack 🔮
@@ -21,24 +25,36 @@ I'm a **Web frontend developer.**
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
+ </br>
+
+## 🌞 Using 🌙
+![VSC](https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Slack&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+
+</br>
+
+## 🗽 Etc 🗽
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/h2_won/)
+[![쇼미더머니 닮은꼴 테스트](https://img.shields.io/badge/쇼미더머니_닮은꼴_테스트-121212?style=flat-square&fontColor=FBBD68)](https://resemble.ga/)
+  
+</br></br>
+
+
+[![H2-won's GitHub stats](https://github-readme-stats.vercel.app/api?username=H2-won&title_color=A29BFE&icon_color=A29BFE)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H2-won&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=A29BFE&height=150&section=footer)
 
-🔮🌎☄🌠☂🌞⭐🌝🌙🌟🗽
+
 
 <!--
+🔮🌎☄🌠☂🌞⭐🌝🌙🌟🗽
 **H2-won/H2-won** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
