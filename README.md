@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A29BFE&height=300&section=header&text=HUI%20&fontSize=75&fontColor=ffffff&animation=twinkling)
 
 
-## Hi there! I'm huiwon. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+## Hi there! I'm huiwon.
 I'm a **Web frontend developer.**
 
 I'm **interested in Development 💻 , Design 🎨 , Games 🕹  and Fashion 👕👖👟.**
