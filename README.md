@@ -38,7 +38,7 @@ I'm **interested in Development 💻 , Design 🎨 , Games 🕹  and Fashion �
 
 ## 🗽 Etc 🗽
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/h2_won/)
-[![쇼미더머니 닮은꼴 테스트](https://img.shields.io/badge/쇼미더머니_닮은꼴_테스트-121212?style=flat-square&fontColor=FBBD68)](https://stoic-newton-9b560b.netlify.app/)
+[![쇼미더머니 닮은꼴 테스트](https://img.shields.io/badge/쇼미더머니_닮은꼴_테스트-121212?style=flat-square&fontColor=FBBD68)](https://resemble.ga/)
   
 </br></br>
 
