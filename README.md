@@ -4,13 +4,13 @@
 ## Hi there! I'm huiwon. 😃
 I'm a **Frontend developer.**
 
-I'm **interested in Development 💻 , Design 🎨 , Games 🕹  and Fashion 👕👖👟.**
+I'm interested in Development 💻 , Design 🎨 , Games 🕹  and Fashion 👕👖👟.
 
 </br></br>
 
 <div align=center>
 
-## 🔮 Tech Stack 🔮
+## 🛠  Tech Stack  🛠
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -35,8 +35,8 @@ I'm **interested in Development 💻 , Design 🎨 , Games 🕹  and Fashion �
 ![VSC](https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Slack&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white)
 
 </br>
 
