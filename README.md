@@ -2,9 +2,9 @@
 
 
 ## Hi there! I'm huiwon. 😃
-I'm a **Frontend developer.**
+I'm a **Frontend Engineer.**
 
-I'm interested in Development 💻 , Design 🎨 , Blockchain 🌐,  Games 🕹  and Fashion 👕👖👟.
+I'm interested in AI 💻 , Web3 🌐 , Design 🎨 , Games 🕹  and Fashion 👕👖👟.
 
 </br></br>
 
@@ -13,13 +13,15 @@ I'm interested in Development 💻 , Design 🎨 , Blockchain 🌐,  Games 🕹 
 ## 🛠  Tech Stack  🛠
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+
 
 ![ReactQuery](https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-3478ec?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIGhlaWdodD0iMjUwMCIgd2lkdGg9IjIzNjgiIHZpZXdCb3g9IjMwIDExIDI3LjUgNzgiPjxyZWN0IGZpbGw9IiMwMDdhZjQiIGhlaWdodD0iOTUiIHJ4PSIxMCIgd2lkdGg9IjkwIi8+PGNpcmNsZSBjeD0iNDMuNSIgY3k9IjE4LjUiIGZpbGw9IiNmZmYiIHI9IjcuNSIvPjxjaXJjbGUgY3g9IjQzLjUiIGN5PSI4MS41IiBmaWxsPSIjZmZmIiByPSI3LjUiLz48ZyBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMyI+PHBhdGggZD0iTTQzLjk5OSAyNUM0Mi41IDM3IDU3LjUgMzQgNTcuNSA0Mi41YzAgNS01Ljg3OCA2LjM2NS0xMy41MDEgN0MzNy45OTkgNTAgMzAgNTAgMzAgNThzMTYgNS41IDEzLjk5OSAxN00zNC4xMzIgMzMuMzUzYzAgMTUuMjg5IDIzLjE1IDE4LjI4OSAyMy4xNSAzMi42MiIvPjwvZz48L3N2Zz4=)
 ![StyledComponents](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Emotion](https://img.shields.io/badge/👩‍🎤_Emotion-DB7093?style=flat-square)
   
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
@@ -30,25 +32,25 @@ I'm interested in Development 💻 , Design 🎨 , Blockchain 🌐,  Games 🕹 
  </br>
 
 ## 🌞 Using 🌙
-![VSC](https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Slack&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=Cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=Codex&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=Claude&logoColor=white)
+
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=AdobeXD&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white)
+
 
 </br>
 
 ## 🗽 Etc 🗽
+
+[![X](https://img.shields.io/badge/0xHytto-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/0xHytto)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/h2_won/)
-[![쇼미더머니 닮은꼴 테스트](https://img.shields.io/badge/쇼미더머니_닮은꼴_테스트-121212?style=flat-square&fontColor=FBBD68)](https://master--stoic-newton-9b560b.netlify.app/)
   
 </br></br>
-
-
-[![H2-won's GitHub stats](https://github-readme-stats.vercel.app/api?username=H2-won&title_color=A29BFE&icon_color=A29BFE)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H2-won&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
 
 </div>
 
