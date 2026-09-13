@@ -26,14 +26,13 @@ I'm interested in AI 💻 , Web3 🌐 , Design 🎨 , Games 🕹  and Fashion �
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
   
 
  </br>
 
 ## 🌞 Using 🌙
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=Cursor&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=Codex&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=Cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=Claude&logoColor=white)
 
 
@@ -48,7 +47,6 @@ I'm interested in AI 💻 , Web3 🌐 , Design 🎨 , Games 🕹  and Fashion �
 ## 🗽 Etc 🗽
 
 [![X](https://img.shields.io/badge/0xHytto-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/0xHytto)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/h2_won/)
   
 </br></br>
 
